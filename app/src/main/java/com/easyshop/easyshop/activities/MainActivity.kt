@@ -1,7 +1,8 @@
-package com.easyshop.easyshop
+package com.easyshop.easyshop.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.easyshop.easyshop.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
